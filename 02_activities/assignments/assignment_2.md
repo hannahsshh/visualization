@@ -10,6 +10,7 @@
 - For each visualization (good and bad):  
 
 Good visualization:
+NOTE: VISUALIZATION IN PNG WITHIN ASSIGNMENTS FOLDER
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
     ```
     The visualization is effective because it simply and clearly communicates the intended comparison, and achieves a degree of intended persuasion. The visualization is effectively and clearly labeled, relying on a simple design that effectively conveys the message. The orientation of the figure, starting from the greatest to the least naturally allows the reader to interpret the comparison, while from a persuasive standpoint, provides an inherent interpretation of positive vs. negative (abundant vs. deficient). 
@@ -24,6 +25,7 @@ Good visualization:
     ```
 
 Bad visualization:
+NOTE: VISUALIZATION IN PNG WITHIN ASSIGNMENTS FOLDER
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
       ```
      There are a number of reasons why the visualization is not effective, primarily because the design of the figure obscures its purpose - which is comparison. The major message of the visualization is to try to draw the readers’ attention to the fact that "more job cuts were announced than any year since 2009", within which the major comparison is between the y axis value in 2009 and in 2015, and conveying the message that the numbers are closest together than any intermittent year. However the layout of the lines does not allow the reader to see that the final 2015 number is larger than any previous year, and the most obvious comparison is the distinctive drop immediately following 2019. 
